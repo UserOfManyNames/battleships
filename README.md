@@ -1,4 +1,6 @@
 # Pjoject-31
 --Battleships--
 
-Instructions are in the report.
+
+Instructions for the game are in the report.
+
